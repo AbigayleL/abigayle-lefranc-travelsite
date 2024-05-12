@@ -1,0 +1,29 @@
+.destination {
+  position: relative;
+  object-fit: cover;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.destination__backgroundimage {
+  display: block;
+  width: 100%;
+}
+
+.destination__title {
+  color: #ffffff;
+  position: absolute;
+  font-size: 5rem;
+  top: 9.688rem;
+  left: 3.438rem;
+  margin: 0;
+}
+.destination__Itinarary {
+  display: flex;
+  justify-content: space-evenly;
+  position: absolute;
+  top: 20.313rem;
+  right: 0;
+  left: 0;
+  padding: 0 6.25rem;
+}
