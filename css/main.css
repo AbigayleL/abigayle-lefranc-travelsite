@@ -3,8 +3,8 @@
 .hero {
   margin-top: 60px;
   background-color: #fefaf5;
-  margin-bottom: 20px;
-  padding: 40px 20px;
+  margin-bottom: 1.25rem;
+  padding: 2.5rem 1.25rem;
   display: flex;
   justify-content: space-between;
 }
@@ -12,8 +12,8 @@
 .hero__leftside {
   vertical-align: top;
   text-align: left;
-  padding: 20px;
-  margin-left: 20px;
+  padding: 1.25rem;
+  margin-left: 1.25rem;
   width: 50%;
   display: flex;
   justify-content: center;
@@ -29,26 +29,26 @@
 .hero__Leftside-paragraph {
   width: 25%;
   text-align: left;
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
   color: #335576;
 }
 
 .hero__leftside p {
   color: #335576;
-  margin: 20px 0px;
+  margin: 1.25rem 0px;
 }
 
 .hero__button {
   background-color: #db7a4e;
   width: 100px;
-  height: 30px;
+  height: 1.875rem;
   border-radius: 15px;
   color: #ffffff;
   border: none;
 }
 
 .hero__rightside {
-  padding: 40px;
+  padding: 2.5rem;
   text-align: left;
   width: 50%;
 }
@@ -61,7 +61,7 @@
 /* Reccomendations */
 
 .recommendations {
-  margin: 20px;
+  margin: 1.25rem;
 }
 
 .recommendations-cards {
@@ -70,7 +70,7 @@
 }
 
 .recommendations-cards__card {
-  margin: 20px;
+  margin: 1.25rem;
   position: relative;
   text-align: center;
 }
@@ -84,8 +84,8 @@
 
 .recommendations__image--text {
   position: absolute;
-  bottom: 20px;
-  right: 20px;
+  bottom: 1.25rem;
+  right: 1.25rem;
   color: white;
   font-size: 25px;
   font-weight: bold;

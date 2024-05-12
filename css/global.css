@@ -8,8 +8,8 @@
 
 /* All Icons */
 .icons {
-  height: 30px;
-  margin: 20px;
+  height: 1.875rem;
+  margin: 1.25rem;
 }
 
 /* Header Section  */
@@ -17,8 +17,8 @@ header {
   box-sizing: border-box;
   display: flex;
   justify-content: space-between;
-  padding: 20px;
-  padding-left: 40px;
+  padding: 1.25rem;
+  padding-left: 2.5rem;
   position: fixed;
   top: 0;
   width: 100%;
@@ -28,11 +28,11 @@ header {
 
 header h3 {
   color: #335576;
-  margin-left: 20px;
+  margin-left: 1.25rem;
 }
 
 header nav {
-  margin-right: 60px;
+  margin-right: 3.75rem;
 }
 
 header ul {
@@ -41,7 +41,7 @@ header ul {
 }
 
 header li {
-  padding: 0px 15px;
+  padding: 0px 0.9375rem;
 }
 
 a:link {
@@ -72,24 +72,24 @@ footer {
 }
 
 footer h2 {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
   color: #335576;
 }
 
 footer h5 {
-  margin-bottom: 10px;
+  margin-bottom: 0.625rem;
   color: #db7a4e;
   font-weight: normal;
 }
 
 footer p {
-  margin-bottom: 10px;
+  margin-bottom: 0.625rem;
   color: #335576;
 }
 
 footer section {
-  margin: 40px 40px;
+  margin: 2.5rem 2.5rem;
 }
 
 .hours__section {
@@ -97,5 +97,5 @@ footer section {
 }
 
 .hours__section div {
-  margin-right: 40px;
+  margin-right: 2.5rem;
 }
